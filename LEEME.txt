@@ -1,0 +1,11 @@
+De: 	PaikLC
+A:	(4)
+
+Ya configure mi parte y con esto puedes probar si es que tu entorno para compilar con makefile funciona
+Lo que tienes que hacer es lo siguiente:
+
+1- Abrir la cmd en el directorio raiz (donde esta el archivo makefile)
+2- Escribir mingw32-make y presionar enter
+3- Esperar
+4- Si se compilo de forma exitosa tendras que tener ya un .exe con el nombre main.
+5- Ejecutar el .exe y... si aparece un texto ya la hiciste
